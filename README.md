@@ -408,12 +408,7 @@ Cả hai đều đúng. Nhưng trong thực tế:
 ---
 
 ## Demo Video
-
-<video 
-  src="https://www.youtube.com/watch?v=PATOnWZIV80"
-  controls
-  width="700">
-</video>
+https://youtu.be/PATOnWZIV80
 
 # Todo List React
 
