@@ -407,6 +407,10 @@ Cả hai đều đúng. Nhưng trong thực tế:
 
 ---
 
+## Demo Video
+
+https://www.youtube.com/watch?v=PATOnWZIV80
+
 # Todo List React
 
 Ứng dụng quản lý công việc được xây dựng bằng React, Vite và Tailwind CSS. Ứng dụng cho phép người dùng thêm, chỉnh sửa, hoàn thành, xóa, tìm kiếm và lọc công việc, đồng thời lưu dữ liệu trong `localStorage` của trình duyệt.
