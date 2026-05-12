@@ -408,7 +408,7 @@ Cả hai đều đúng. Nhưng trong thực tế:
 ---
 
 ## Demo Video
-https://youtu.be/PATOnWZIV80
+[![Demo]](https://youtu.be/PATOnWZIV80)
 
 # Todo List React
 
