@@ -409,7 +409,11 @@ Cả hai đều đúng. Nhưng trong thực tế:
 
 ## Demo Video
 
-https://www.youtube.com/watch?v=PATOnWZIV80
+<video 
+  src="https://www.youtube.com/watch?v=PATOnWZIV80"
+  controls
+  width="700">
+</video>
 
 # Todo List React
 
